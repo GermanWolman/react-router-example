@@ -1,5 +1,5 @@
 import { useParams } from "react-router";
-import { useFetch } from "../hooks/useFetch";
+import { useFetch } from "./useFetch";
 //import { useFetch } from "../hooks/UseFetch";
 
 const BlogDetails = () => {
