@@ -1,5 +1,5 @@
 import { useParams } from "react-router";
-import { useFetch } from "./useFetch";
+import { useFetch } from "../hooks/useFetch";
 
 const BlogDetails = () => {
   // useParams es un Hook para capturar los parametros pasados por url
